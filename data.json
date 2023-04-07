@@ -1,0 +1,13 @@
+{
+	"question": [
+		"Q1. What is the capital of India?",
+		"Q2. Who is the Cricket player among following?",
+		"Q3. What is the national song of India"
+	],
+	"answer": [3, 1, 3],
+	"options": [
+		["Mumbai", "Gujarat", "Delhi", "Rajasthan"],
+		["Sachin", "Ronaldo", "Messi", "Mike Tyson"],
+		["Jan Gan Man", "Saare Jahan Se Achha", "Vande Mataram", "None"]
+	]
+}
